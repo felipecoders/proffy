@@ -1,0 +1,17 @@
+{
+  "name": "proffy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  },
+  "devDependencies": {
+    "axios": "^0.19.2",
+    "react": "^16.13.1",
+    "typescript": "^3.9.7"
+  }
+}
